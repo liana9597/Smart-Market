@@ -1,6 +1,6 @@
-# 📦 Toko Suka Maju - Aplikasi Manajemen Stok & Kategori Produk
+# 📦 Smart Market - Aplikasi Manajemen Stok & Kategori Produk
 
-Toko Suka Maju adalah aplikasi berbasis web yang dirancang untuk mengelola inventaris stok barang toko secara efisien, aman, dan *real-time*. Proyek ini dibangun menggunakan framework **Laravel** dengan antarmuka admin premium berbasis **Sneat Bootstrap Template**.
+Smart Market adalah aplikasi berbasis web yang dirancang untuk mengelola inventaris stok barang toko secara efisien, aman, dan *real-time*. Proyek ini dibangun menggunakan framework **Laravel** dengan antarmuka admin premium berbasis **Sneat Bootstrap Template**.
 
 Aplikasi ini merupakan bagian dari portofolio pengembangan aplikasi web (*Backend Development*) untuk memenuhi kebutuhan pengelolaan data produk dan kategori toko secara dinamis.
 
@@ -33,3 +33,4 @@ Aplikasi ini dilengkapi dengan fitur-fitur esensial manajemen retail modern:
 * **Database:** MySQL / MariaDB
 * **Front-End Styling:** Bootstrap & Sneat Admin Template (Lokal Assets)
 * **Library Ekspor Data:** Maatwebsite/Laravel-Excel
+
