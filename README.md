@@ -5,7 +5,7 @@
 
 # 📦 Smart Market - Inventory Management & Product Export Application
 
-**Smart Market** is an enterprise-ready web-based platform tailored to handle retail stock bookkeeping, item classification, and dynamic reporting. Built on top of the modern **Laravel** ecosystem, it integrates a sleek and polished user interface powered by the **Sneat Bootstrap Template**.
+**Smart Market** is a web-based management platform tailored to handle retail stock bookkeeping, item classification, and dynamic reporting. Built on top of the modern **Laravel** ecosystem, it integrates a sleek and polished user interface powered by the **Sneat Bootstrap Template**.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
 ## Product Page
 ![Product Page](screenshots/product-page.png)
