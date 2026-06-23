@@ -28,6 +28,16 @@
 
 ---
 
+# Screenshots
+
+## Product Page
+![Product Page](screenshots/product-page.png)
+
+## Category Page
+![Category Page](screenshots/category-page.png)
+
+---
+
 ## 🛠️ Tech Stack & Dependencies
 
 * **Backend Framework:** Laravel (PHP)
