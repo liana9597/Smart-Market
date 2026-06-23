@@ -1,36 +1,36 @@
-# 📦 Smart Market - Aplikasi Manajemen Stok & Kategori Produk
-
-Smart Market adalah aplikasi berbasis web yang dirancang untuk mengelola inventaris stok barang toko secara efisien, aman, dan *real-time*. Proyek ini dibangun menggunakan framework **Laravel** dengan antarmuka admin premium berbasis **Sneat Bootstrap Template**.
-
-Aplikasi ini merupakan bagian dari portofolio pengembangan aplikasi web (*Backend Development*) untuk memenuhi kebutuhan pengelolaan data produk dan kategori toko secara dinamis.
+# 🌐 Language Options:
+**English** | [Bahasa Indonesia](README-id.md)
 
 ---
 
-## ✨ Fitur Utama
+# 📦 Smart Market - Inventory Management & Product Export Application
 
-Aplikasi ini dilengkapi dengan fitur-fitur esensial manajemen retail modern:
-
-1. **📦 Manajemen Produk (CRUD Lengkap)**
-   * **Create:** Menambahkan data produk baru lengkap dengan nama, harga, stok, dan kategori.
-   * **Read:** Menampilkan daftar stok produk dalam bentuk tabel interaktif.
-   * **Update:** Memperbarui detail informasi produk jika terjadi perubahan data stok/harga.
-   * **Delete:** Menghapus data produk yang sudah tidak tersedia secara aman.
-
-2. **⚙️ Manajemen Kategori Barang**
-   * Pengelompokan produk berdasarkan kategori yang dinamis menggunakan relasi database *Eloquent ORM* (`One-to-Many`). Admin dapat mengelola kategori secara terpisah tanpa merusak data produk.
-
-3. **📥 Export Laporan Excel**
-   * Integrasi fitur ekspor data otomatis sekali klik. Admin dapat mengunduh seluruh ringkasan laporan produk dan sisa stok secara langsung ke format file Spreadsheet Excel (`.xlsx`) siap cetak.
-
-4. **💎 Antarmuka Modern & Responsif (Sneat Bootstrap UI)**
-   * Desain visual web yang profesional, bersih, dan mewah dengan integrasi aset dari *Sneat Admin Template*. Navigasi yang mudah dipahami, komponen *card* dengan efek *shadow*, serta layout tabel yang nyaman di mata.
+**Smart Market** is an enterprise-ready web-based platform tailored to handle retail stock bookkeeping, item classification, and dynamic reporting. Built on top of the modern **Laravel** ecosystem, it integrates a sleek and polished user interface powered by the **Sneat Bootstrap Template**.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## ✨ Core Features
+
+1. **📦 Product Management (Full CRUD)**
+   * **Create:** Register new inventory pieces securely matching names, stock quotas, and price tags.
+   * **Read:** Display clean data listings utilizing dynamic visual tables with optimized layout grids.
+   * **Update:** Easily adjust pricing variations and real-time structural asset numbers.
+   * **Delete:** Remove catalog products safely via explicit action workflows.
+
+2. **⚙️ Dynamic Category Relations**
+   * Smart relational database classification mapping products onto specific categories via *Eloquent ORM* (`One-to-Many` relationship structures).
+
+3. **📥 Real-Time Spreadsheet Export**
+   * Native data extraction mechanics allowing administrative managers to instantly generate and download official catalog registers into standalone Microsoft Excel files (`.xlsx`) via the `maatwebsite/excel` package dependency.
+
+4. **💎 Premium Interface Design (Sneat UI Integration)**
+   * Dressed up with professional responsive components, subtle soft-pastel utility badges, interaction hover shadows, and custom-designed circular visual markers.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
 
 * **Backend Framework:** Laravel (PHP)
-* **Database:** MySQL / MariaDB
-* **Front-End Styling:** Bootstrap & Sneat Admin Template (Lokal Assets)
-* **Library Ekspor Data:** Maatwebsite/Laravel-Excel
-
+* **Database Management:** MySQL / MariaDB
+* **UI Architecture:** Sneat Admin Template (Bootstrap 5 Core Custom Assets)
+* **Reporting Package:** Maatwebsite/Laravel-Excel
